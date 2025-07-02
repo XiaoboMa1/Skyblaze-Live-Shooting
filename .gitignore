@@ -1,0 +1,14 @@
+.idea/
+tests/node_modules/
+
+
+tests/*.png
+tests/*.gif
+
+
+.idea/
+
+
+.DS_Store
+tests/notes.txt
+tests/useful-material/
